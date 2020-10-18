@@ -7,4 +7,4 @@ src_dir_path="./dir"
 directory_path="~/dir"
 directory_mode="0755"
 
-file_list='["textfile", "textfile2"]'
+file_list='["sample1", "sample2"]'
