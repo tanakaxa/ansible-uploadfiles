@@ -1,0 +1,10 @@
+localhost ansible_host=127.0.0.1
+
+[all:vars]
+ansible_user=ansible-user
+
+src_dir_path="./dir"
+directory_path="~/dir"
+directory_mode="0755"
+
+file_list='["textfile", "textfile2"]'
