@@ -1,0 +1,2 @@
+# ansible-uploadfiles
+Ansibleでディレクトリを作成してファイルをアップロードするPlaybook
